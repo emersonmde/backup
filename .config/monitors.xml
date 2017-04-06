@@ -1,0 +1,40 @@
+<monitors version="1">
+  <configuration>
+    <clone>no</clone>
+    <output name="eDP1">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1680</width>
+      <height>1050</height>
+      <rate>59.999870300292969</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+  <configuration>
+    <clone>no</clone>
+    <output name="eDP-1">
+      <vendor>APP</vendor>
+      <product>Color LCD</product>
+      <serial>0x00000000</serial>
+      <width>1680</width>
+      <height>1050</height>
+      <rate>59.954746246337891</rate>
+      <x>0</x>
+      <y>0</y>
+      <rotation>normal</rotation>
+      <reflect_x>no</reflect_x>
+      <reflect_y>no</reflect_y>
+      <primary>yes</primary>
+      <presentation>no</presentation>
+      <underscanning>no</underscanning>
+    </output>
+  </configuration>
+</monitors>
